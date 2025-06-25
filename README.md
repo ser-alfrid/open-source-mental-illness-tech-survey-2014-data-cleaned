@@ -7,7 +7,6 @@ https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 The data was cleaned using python's pandas library. The columns 'Gender' and 'Age' were the one's that were mostly altered. The 'Gender' column was standardized while also not altering good faith or self-described gender identities. The age column had some outlier values that were turned into NaN objects. 1 row was removed for being a response that was either spam or lacked seriousness.
 
 ## Data Description:
-
 index
 Timestamp
 Age
